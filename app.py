@@ -1,7 +1,7 @@
 import flet as ft
 from flet import AppBar, ElevatedButton, Page, Text, View, colors, TextStyle,FontWeight
 import numpy as np
-print"messi god"
+
 
 
 
