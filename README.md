@@ -37,7 +37,7 @@ Ejecuta la aplicación Python y se abrirá una interfaz gráfica que te permitir
 
 2. **Autovector y Autovalor:** Permite al usuario ingresar una matriz y encuentra los autovectores y autovalores correspondientes utilizando la biblioteca `numpy`. Los resultados se muestran en la interfaz gráfica.
 
-3. **Interpolación:** Esta función permite al usuario realizar la interpolación lineal de un valor desconocido `Y` en un 'X` ingresado por el usuario, dado dos pares de valores `X` e `Y`. El resultado se muestra en la interfaz gráfica.
+3. **Interpolación:** Esta función permite al usuario realizar la interpolación lineal de un valor desconocido `Y` en un `X` ingresado por el usuario, dado dos pares de valores `X` e `Y`. El resultado se muestra en la interfaz gráfica.
 
 Simplemente sigue las instrucciones en la interfaz para ingresar los datos necesarios y realizar los cálculos.
 
